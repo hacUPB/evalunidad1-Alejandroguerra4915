@@ -2,22 +2,22 @@
 //000446650
 //alejandro.guerrab@upb.edu.co
 (INICIO)                             
-@KBD                         
-D=M                          
-@84
-D=D-A
-@PINTAR
-D;JEQ
+        @KBD                         
+        D=M                          
+        @84
+        D=D-A
+        @PINTAR
+        D;JEQ
 
-@KBD
-D=M
-@67
-D=D-A 
-@CLEAR
-D;JEQ
+        @KBD
+        D=M
+        @67
+        D=D-A 
+        @CLEAR
+        D;JEQ
 
-@INICIO
-0;JMP
+        @INICIO
+        0;JMP
 
 (CLEAR)
     @16384 

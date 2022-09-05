@@ -1,6 +1,9 @@
-(INICIO)                             //Alejandro Guerra Betancur    
-        @KBD                         //000446650
-        D=M                          //alejandro.guerrab@upb.edu.co
+//Alejandro Guerra Betancur
+//000446650
+//alejandro.guerrab@upb.edu.co
+(INICIO)                             
+        @KBD                         
+        D=M                          
         @84
         D=D-A
         @PINTAR
